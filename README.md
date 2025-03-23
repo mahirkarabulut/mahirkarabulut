@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Merhaba, ben Mahir Karabulut!  
 
 **🎮 Oyun Geliştiricisi | 🖥️ C# & Unity Developer | 🚀 Indie Game Enthusiast**  
