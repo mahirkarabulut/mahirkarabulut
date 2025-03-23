@@ -1,16 +1,45 @@
 ## Hi there 👋
+# 👋 Merhaba, ben Mahir Karabulut!  
 
-<!--
-**mahirkarabulut/mahirkarabulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎮 Oyun Geliştiricisi | 🖥️ C# & Unity Developer | 🚀 Indie Game Enthusiast**  
 
-Here are some ideas to get you started:
+Unity ve C# kullanarak **2D & 3D oyunlar geliştiren** bir programcıyım. Bağımsız oyun projeleri üzerinde çalışıyor, kendimi oyun tasarımı ve programlama alanında sürekli geliştiriyorum.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Yetkinliklerim: 
+- **Unity 2D & 3D**  
+- **C# ve OOP**  
+- **Game Design & Level Design**  
+- **UI/UX & Grafik Tasarım**  
+
+## 🔭 Şu anda üzerinde çalışıyorum:  
+- **[Metroidvania Deck-Builder Oyunu]**
+
+## 🌱 Öğreniyorum:  
+- Gelişmiş Unity Fizik & Input Sistemleri
+- Yapay zeka, diyalog-quest, dövüş sistemleri  
+- C# ile Performans Optimizasyonu  
+- Shader Graph & VFX-SFX
+- Unity Visual Scripting
+- Design Patterns & Refactoring  
+
+## 👯 İş Birliği Yapmak İstiyorum:  
+- Unity ile geliştirilmiş indie oyun projeleri  
+- Açık kaynak oyun araçları ve framework’ler  
+
+## 💬 Bana sorabileceğin konular:  
+- Unity 2D & 3D geliştirme  
+- C# ile oyun programlama  
+- Oyun tasarımı ve mekanikleri
+- Senaryo, bilim kurgu ve fantastik evrenler  
+
+## 📫 Bana ulaşın:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mahirkarabulut)  
+📧 **E-posta:** mahir.krbltt@gmail.com  
+
+## ⚡ İlginç Bir Gerçek:  
+🎲 Favori oyun türüm **Rpg, Metroidvania**.  
+📜 Lord of the Rings, Elder Scrolls, Bioshock, Dune, Blade Runner, Ghost in the Shell evrenlerini ve serilerini çok seviyorum!  
+
+---
+
+> **"İnsan, içinde bulunduğu dünyayı anlamlandıramıyorsa, kendi dünyasını yaratmalıdır." – Miguel de Unamuno** - Mahir Karabulut
