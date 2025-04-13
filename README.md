@@ -1,4 +1,4 @@
-# 👋 Selamlar, Ben Eso Mahir N-NG Bey!  
+# 👋 Merhaba, ben Mahir Karabulut!
 
 **🎮 Oyun Geliştiricisi | 🖥️ C# & Unity Developer | 🚀 Indie Game Enthusiast**  
 
