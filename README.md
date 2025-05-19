@@ -34,7 +34,7 @@ Unity ve C# kullanarak **2D & 3D oyunlar geliştiren** bir programcıyım. Bağ�
 
 ## 📫 Bana ulaşın:  
 **LinkedIn:** https://www.linkedin.com/in/mahir-karabulut/  
-📧 **E-posta:** mahir.krbltt@hotmail.com  
+**E-posta:** mahir.krbltt@hotmail.com  
 
 ## ⚡ İlginç Bir Gerçek:  
 🎲 Favori oyun türüm **Rpg, Metroidvania**.  
