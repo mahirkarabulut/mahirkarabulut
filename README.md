@@ -33,7 +33,7 @@ Unity ve C# kullanarak **2D & 3D oyunlar geliştiren** bir programcıyım. Bağ�
 - Senaryo, bilim kurgu ve fantastik evrenler  
 
 ## 📫 Bana ulaşın:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mahir-karabulut/))  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mahir-karabulut/)](https://www.linkedin.com/in/mahir-karabulut/))  
 📧 **E-posta:** mahir.krbltt@hotmail.com  
 
 ## ⚡ İlginç Bir Gerçek:  
