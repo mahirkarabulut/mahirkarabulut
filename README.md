@@ -1,10 +1,9 @@
-**🎮Game Developer **
-
-## 🔹 Yetkinliklerim: 
+**Game Developer**
+ 
 - **Unity 2D**  
 - **C#**
 - **Game Design**
 
-## 📫 İletişim:  
+## 📫 Contact:  
 **LinkedIn:** https://www.linkedin.com/in/mahir-karabulut/  
-**E-posta:** mahir.krbltt@hotmail.com
+**E-mail:** mahir.krbltt@hotmail.com
