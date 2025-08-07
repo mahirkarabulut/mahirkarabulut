@@ -1,4 +1,4 @@
-**🎮Game Developer
+**🎮Game Developer **
 
 ## 🔹 Yetkinliklerim: 
 - **Unity 2D**  
