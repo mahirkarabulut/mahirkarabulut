@@ -1,6 +1,6 @@
 **Game Developer**
 
-- **Narradive Studio**
+- **Narradive Studios**
 - **Unity 2D**  
 - **C#**
 - **Game Design**
